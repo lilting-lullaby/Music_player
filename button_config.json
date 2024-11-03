@@ -1,0 +1,96 @@
+{
+    "play_pause_button": {
+        "x": 458,
+        "y": 549,
+        "icons": [
+            "D:/\u684c\u9762/\u5b66\u4e60\u8d44\u6599/ico/AI_GENERATED/DALL\u00b7E 2024-02-01 19.10.16 - Create an image of an anime-style character with vibrant green hair and cat ears. The character has large expressive blue eyes and a subtle smile. The.png",
+            "D:/\u684c\u9762/\u5b66\u4e60\u8d44\u6599/ico/Nahida/\u5fae\u4fe1\u56fe\u7247_20240201184941.jpg"
+        ]
+    },
+    "next_button": {
+        "x": 513,
+        "y": 548,
+        "icons": [
+            "resource/image/next.png"
+        ]
+    },
+    "prev_button": {
+        "x": 401,
+        "y": 545,
+        "icons": [
+            "resource/image/prev.png"
+        ]
+    },
+    "play_mode_button": {
+        "x": 566,
+        "y": 545,
+        "icons": [
+            "D:/\u684c\u9762/\u5b66\u4e60\u8d44\u6599/ico/7bbf245307255b982386be7236f12bc.jpg",
+            "D:/\u684c\u9762/\u5b66\u4e60\u8d44\u6599/ico/a7c43c9b7290c72512b0ab32a4e1dcc.jpg",
+            "D:/\u684c\u9762/\u5b66\u4e60\u8d44\u6599/ico/ae22446877729a1688f01e939b095d4.jpg"
+        ]
+    },
+    "list_button": {
+        "x": 500,
+        "y": 50,
+        "icons": [
+            "resource/image/list.png"
+        ]
+    },
+    "volume_button": {
+        "x": 982,
+        "y": 523,
+        "icons": [
+            "resource/image/volume.png"
+        ]
+    },
+    "loop_button": {
+        "x": 700,
+        "y": 50,
+        "icons": [
+            "resource/image/loop.png"
+        ]
+    },
+    "single_loop_button": {
+        "x": 800,
+        "y": 50,
+        "icons": [
+            "resource/image/single_loop.png"
+        ]
+    },
+    "shuffle_button": {
+        "x": 900,
+        "y": 50,
+        "icons": [
+            "resource/image/shuffle.png"
+        ]
+    },
+    "toggle_button": {
+        "x": 1045,
+        "y": 522,
+        "icons": [
+            "D:/\u684c\u9762/\u5b66\u4e60\u8d44\u6599/ico/Nahida/\u5fae\u4fe1\u56fe\u7247_20240201184941.jpg"
+        ]
+    },
+    "change_ui_button": {
+        "x": 72,
+        "y": 4,
+        "icons": [
+            "C:/Users/Mr.wang/Pictures/20bec4b03fa466f99ae07f86c717137.jpg"
+        ]
+    },
+    "add_background": {
+        "x": 18,
+        "y": 1,
+        "icons": [
+            "D:/\u684c\u9762/\u5b66\u4e60\u8d44\u6599/ico/Nahida/download.jpg"
+        ]
+    },
+    "delete_background": {
+        "x": 125,
+        "y": 8,
+        "icons": [
+            "C:/Users/Mr.wang/Pictures/\u89c6\u9891\u9879\u76ee/00102.jpg"
+        ]
+    }
+}
